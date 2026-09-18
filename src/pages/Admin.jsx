@@ -238,10 +238,6 @@ export const Admin = ({ onOpenBooking }) => {
               <span>Unlock Admin Dashboard</span>
             </button>
           </form>
-
-          <p className="text-[10px] text-gray-400 font-semibold">
-            Default Studio Password: <code className="text-[#BE185D] font-bold">admin123</code>
-          </p>
         </div>
       </div>
     );
